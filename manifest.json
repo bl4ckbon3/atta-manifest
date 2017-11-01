@@ -37,8 +37,8 @@
     },
     {
         "name": "atta.phar",
-        "sha1": "2017514e98c5bbb1347cb4becf9b7ad002430fba",
-        "url": "https://gitlab.metrotv.co.id/root/atta/raw/v1.2.1/dist/atta.phar",
-        "version": "1.2.1"
+        "sha1": "38f24fbcc37e429e40d03ae6cc0edb81b199be3c",
+        "url": "https://github.com/bl4ckbon3/atta/raw/v1.2.2/dist/atta.phar",
+        "version": "1.2.2"
     }
 ]
